@@ -1,6 +1,6 @@
 module.exports = {
     defaultPrefix: 'g!',
-    ownerID: '144645791145918464',
+    ownerID: '316846468927455232',
     _limits: 'The following are defaults.',
     adminCanChangeLimits: true,
     limits: {
